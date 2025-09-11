@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/jordan-istiqlal-qalbi-adiba-85465b1b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Jordan-18"><img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://jordan-18.github.io/portofolio"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1aBIGirfVKWY0X7ep_TmnyT9pZQlqb6nY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume CV-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
 </p>
 
 ---
@@ -18,22 +19,6 @@
 - 🧑‍🤝‍🧑 Experienced in **leading teams**, **client collaboration**, and delivering **scalable solutions**.  
 - 🎯 Passionate about **system design, performance optimization**, and **problem-solving**.  
 - 🌱 Currently pursuing **M.Sc. in Informatics @ ITS**.  
-
----
-
-### 💼 Work Experience
-- **Sekawan Media** *(2022 – 2023)*  
-  - 🧑‍💻 Backend Developer → Built, debugged, and optimized apps for operational efficiency.  
-  - 🧑‍💼 Lead Engineer → Bridged client needs & technical team, prepared performance reports.  
-
-- **Binokular Media Utama** *(Intern, 2021 – 2022)*  
-  - Designed features, program flows, and internal tools to support analysts.  
-
----
-
-### 🎓 Education  
-- 🎓 **Institut Teknologi Sepuluh Nopember (ITS)** – M.Sc. Informatics (2023 – 2025) | GPA: 3.71/4.0  
-- 🎓 **Universitas Darussalam Gontor (UNIDA)** – B.Sc. Informatics (2018 – 2022) | GPA: 3.49/4.0  
 
 ---
 
