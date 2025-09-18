@@ -9,7 +9,8 @@
   <a href="https://www.linkedin.com/in/jordan-istiqlal-qalbi-adiba-85465b1b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Jordan-18"><img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://jordan-18.github.io/portofolio"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1aBIGirfVKWY0X7ep_TmnyT9pZQlqb6nY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume CV-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
+  <a href="https://jordan-18.github.io/portofolio.old/assets/data/CV_Jordan%20Istiqlal.pdf"><img src="https://img.shields.io/badge/CV-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
+  <a href="https://jordan-18.github.io/portofolio.old/assets/data/Resume_Jordan%20Istiqlal.pdf"><img src="https://img.shields.io/badge/Resume-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
 </p>
 
 ---
