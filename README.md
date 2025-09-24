@@ -6,7 +6,7 @@
 ### 📬 Connect with Me
 <p align="center">
   <a href="mailto:jordanistiqlal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a istarget="_blank" href="https://www.linkedin.com/in/jordanistiqlal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jordanistiqlal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="https://github.com/jordanistiqlal"><img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a target="_blank" href="https://jordanistiqlal.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a target="_blank" href="https://jordanistiqlal.github.io/portofolio.old/assets/data/CV_Jordan%20Istiqlal.pdf"><img src="https://img.shields.io/badge/CV-085b7f?style=for-the-badge&logo=files&logoColor=white"/></a>
